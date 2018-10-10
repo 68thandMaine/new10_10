@@ -23,3 +23,24 @@ body {
   font-family: 'Nothing You Could Do', cursive;
   color: white;
 }
+
+.schedule {
+  float: left;
+  color: #fff;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 32px;
+  width: 400px;
+}
+
+.pnj {
+  padding-top: 15px;
+  padding-left: 12px;
+  color: white;
+}
+
+#poster {
+  float: left;
+  width: 100%;
+  padding-top: 15px;
+  padding-right:12px;
+}
