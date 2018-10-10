@@ -1,5 +1,5 @@
 #noah {
-  width: 90%;
+  width: 100%;
   display: flex;
   margin: 0 auto;
 }
@@ -10,5 +10,16 @@ body {
     to bottom,
    #727272, #000
     );
-  padding-bottom: 25%;
+  padding-bottom: 100%;
+}
+
+
+.header {
+  position:absolute;
+  top: 5%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  font-size: 5em;
+  font-family: 'Nothing You Could Do', cursive;
+  color: white;
 }
