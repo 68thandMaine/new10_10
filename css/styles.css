@@ -1,0 +1,14 @@
+#noah {
+  width: 90%;
+  display: flex;
+  margin: 0 auto;
+}
+
+body {
+  background-image:
+  linear-gradient(
+    to bottom,
+   #727272, #000
+    );
+  padding-bottom: 25%;
+}
